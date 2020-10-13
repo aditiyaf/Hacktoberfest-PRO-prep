@@ -71,3 +71,9 @@ Gautam Ashish Goyal
 Student at Bennett|Competitive Programming|Learning GCP
 gautamashishgoyal
 ```
+##### 14
+```
+Vitesh Malhotra
+Student at Bennett University|Competitive Programming|Learning GCP
+viteshmalhotra2608
+```
