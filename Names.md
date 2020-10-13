@@ -53,3 +53,8 @@ Alok Tripathi
 Student at JIIT|Competitive Programming|Learning GCP
 Tripathi-Alok
 ```
+##### 14
+```
+Vitesh Malhotra
+Student at Bennett University|Competitive Programming|Learning GCP
+viteshmalhotra2608
