@@ -53,3 +53,9 @@ Alok Tripathi
 Student at JIIT|Competitive Programming|Learning GCP
 Tripathi-Alok
 ```
+#### 12
+```
+Vedic Patel
+Developer| Machine Learning Analyst
+Vedic31
+```
