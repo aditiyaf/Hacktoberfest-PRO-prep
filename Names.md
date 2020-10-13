@@ -77,3 +77,9 @@ Vitesh Malhotra
 Student at Bennett University|Competitive Programming|Learning GCP
 viteshmalhotra2608
 ```
+##### 15
+```
+Tomasz Wiejak
+Student at Lublin University of Technology
+zomsik
+```
