@@ -53,3 +53,9 @@ Alok Tripathi
 Student at JIIT|Competitive Programming|Learning GCP
 Tripathi-Alok
 ```
+##### 13
+```
+Gautam Ashish Goyal
+Student at Bennett|Competitive Programming|Learning GCP
+gautamashishgoyal
+```
