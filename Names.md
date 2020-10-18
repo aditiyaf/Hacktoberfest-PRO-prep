@@ -54,6 +54,7 @@ Student at JIIT|Competitive Programming|Learning GCP
 Tripathi-Alok
 ```
 
+
 ##### 11
 ```
 UtsavKansal
@@ -83,7 +84,13 @@ Tomasz Wiejak
 Student at Lublin University of Technology
 zomsik
 ```
-##### 16
+#### 16
+```
+Vedic Patel
+Developer| Machine Learning Analyst
+Vedic31
+```
+##### 17
 ```
 Sunisth Kumar
 Student at Bennett University | Bennett Machine Learning Group
