@@ -53,9 +53,46 @@ Alok Tripathi
 Student at JIIT|Competitive Programming|Learning GCP
 Tripathi-Alok
 ```
-#### 12
+
+
+##### 11
+```
+UtsavKansal
+Developer| Machine Learning Analyst
+UtsavKansal
+```
+##### 12
+```
+Archit Mittal
+Developer | Machine Learning Analyst
+```
+##### 13
+```
+Gautam Ashish Goyal
+Student at Bennett|Competitive Programming|Learning GCP
+gautamashishgoyal
+```
+##### 14
+```
+Vitesh Malhotra
+Student at Bennett University|Competitive Programming|Learning GCP
+viteshmalhotra2608
+```
+##### 15
+```
+Tomasz Wiejak
+Student at Lublin University of Technology
+zomsik
+```
+#### 16
 ```
 Vedic Patel
 Developer| Machine Learning Analyst
 Vedic31
+```
+##### 17
+```
+Sunisth Kumar
+Student at Bennett University | Bennett Machine Learning Group
+ksunisth
 ```
