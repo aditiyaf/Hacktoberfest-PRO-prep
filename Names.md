@@ -103,13 +103,14 @@ Robotics Developer, Computer Vision researcher
 ashokkumar.tech
 ```
 #### 19
-
 ```
-
-aditiyaf
-
-Freelance Developer
-
+Fitrah Aditiya
+Freelancer Developer
 Indonesia
-
 ```
+
+
+
+
+
+
