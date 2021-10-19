@@ -1,1 +1,1 @@
-Init Contributing
+## Init Contributing Guidelines
