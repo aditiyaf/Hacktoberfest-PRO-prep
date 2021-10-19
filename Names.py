@@ -31,3 +31,5 @@ print("Student| Learning a lot day by day zomsik")
 print("Sunisth Kumar Developer | Student Researcher ksunisth")
 
 print(" Ashok Kumar J | Robotics Developer, Computer Vision researcher")
+
+print("Fitrah Aditiya | Freelancer Developer")
